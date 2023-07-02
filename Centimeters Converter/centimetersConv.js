@@ -3,10 +3,12 @@ const feetToCent = (feet, inch) => {
         console.log('Please enter a feet value greater than 0!')
         return
     }
+    
     if (inch < 0 || inch > 12){
         console.log('Please enter an inches value between 0 and 12!')
         return
     }
+
 
     const feetToInch = feet * 12
     const totalInch = feetToInch + inch

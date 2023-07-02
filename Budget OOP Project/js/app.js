@@ -31,7 +31,7 @@ class UI {
         this.budgetInput.value = '';
         this.showBalance();
       }
-  }
+  } 
 
   //show balance
   showBalance(){
