@@ -1,4 +1,4 @@
- ** List of 100+ JavaScript Projects
+List of 100+ JavaScript Projects
 
 1. Change Background Color Project
 2. Hex Change Background Color Project
